@@ -1,0 +1,6 @@
+{
+  "name": "Salão Masculino Mateus – Barbearia Premium em Ipatinga MG",
+  "description": "Barbearia premium no bairro Canaã, Ipatinga – MG. Especialistas em corte masculino, degradê, corte social e barba. Agende seu horário pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
